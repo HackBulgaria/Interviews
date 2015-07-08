@@ -54,3 +54,22 @@ The fundamentals. You cannot move without them.
 * What is a graph?
 * Do you know the basic searching algorithms for graph? For weighted & unweighted? What about complexities?
 * Which is your favourite algorithm? Why?
+
+## Gettings things done - practical programming & applications
+
+If you have to build something, you need to cover the following topics:
+
+* What is Git? And GitHub? Can you use them with the basic commands?
+* How do you work in a team, using Git? What are branches? What is a merge? What is a rebase? What is a pull request?
+* Linux. Basic commands & navigation. Unless you are a .NET developer, you need to run on a UNIX-based system. Mac will do.
+* What is a relational database? Do you know the basic CRUD SQL quries?
+* Do you know what `GROUP BY` clause stands for? What does it do?
+* Can you install & run a simple RDBMS? For example - Postgre SQL
+* Do you know what a package manager is? Why is it important? Give example with the language you are coding in.
+* What is a unit test? What is a functional test? What is an integration test? Can you make simple examples for them.
+* Can you implement your own ORM framework? What are the ideas there? Can you use some kind of ORM framework?
+* What is HTTP? Give examples for client and servers.
+* [It is a good idea to take a look at HTTP2](https://http2.github.io/)
+* What is your editor of choice? Why? Have you done any tuning & making it more suitable for you?
+* Can you build a simple web page using only HTML & CSS?
+* Do you know any web framework? Django, Rails? Can you do a Hello World there?
