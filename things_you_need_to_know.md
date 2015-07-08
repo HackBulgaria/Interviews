@@ -20,3 +20,16 @@ For more basic problems, you can check:
 * [The first week for Programming 101](https://github.com/HackBulgaria/Programming101-3/tree/master/week1)
 
 ## Object Oriented Programming
+
+You should be able to answer & give examples for the following things:
+
+* Basic OOP concepts - Encapsulation, Inheritence, Polymorphism.
+* Why does the OO concept exists? Do you know the origins of it?
+* Why do we need classes?
+* What is the difference between a class and an object?
+* What is the difference between a method & a static method? When should we use static methods?
+* Give example for a way to handle errors in our program?
+* What is an interface? An abstract class? What is the difference between them?
+* What is [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)? Give examples.
+* Can you give example for dependency injection?
+
