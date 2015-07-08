@@ -26,10 +26,12 @@ You should be able to answer & give examples for the following things:
 * Basic OOP concepts - Encapsulation, Inheritence, Polymorphism.
 * Why does the OO concept exists? Do you know the origins of it?
 * Why do we need classes?
+* What is a constructor?
 * What is the difference between a class and an object?
 * What is the difference between a method & a static method? When should we use static methods?
+* What is method overloading? And what is method overriding?
 * Give example for a way to handle errors in our program?
 * What is an interface? An abstract class? What is the difference between them?
-* What is [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)? Give examples.
+* What is [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))? Give examples.
 * Can you give example for dependency injection?
 
