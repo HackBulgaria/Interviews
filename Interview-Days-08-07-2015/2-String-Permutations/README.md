@@ -10,6 +10,11 @@ In a language of your choice, implement a problem that:
 
 The program should output the number of strings, that are a permutation of the characters in the string `s`.
 
+Restrictions:
+
+* `1 <= n <= 100`
+* The length of each string is between 1 and 100
+
 ## Examples
 
 Input:
