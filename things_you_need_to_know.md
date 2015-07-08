@@ -35,3 +35,22 @@ You should be able to answer & give examples for the following things:
 * What is [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))? Give examples.
 * Can you give example for dependency injection?
 
+## Data Structures & Algoritms
+
+The fundamentals. You cannot move without them.
+
+* What is a data structure?
+* What is an algorithmic complexity?
+* Give few examples for container data structures? Do we care about the types we are putting in there?
+* What is the difference between an array, a vector and a linked list?
+* What are the complexities for each operation in a vector and a linked list?
+* How are you going to implement Stack and Queue? Why?
+* Do you know a fast sorting algorithm? Do you know a slow one? Can you implement them?
+* What is a binary search? What is the difference between it and a linear search?
+* What is a tree? How do you implement a tree?
+* What is a binary search tree? For what do we use it?
+* What does it mean for a tree to be balanced?
+* Do you know a data structure, that keeps the tree balanced?
+* What is a graph?
+* Do you know the basic searching algorithms for graph? For weighted & unweighted? What about complexities?
+* Which is your favourite algorithm? Why?
