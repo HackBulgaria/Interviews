@@ -64,7 +64,7 @@ If you have to build something, you need to cover the following topics:
 * Linux. Basic commands & navigation. Unless you are a .NET developer, you need to run on a UNIX-based system. Mac will do.
 * What is a relational database? Do you know the basic CRUD SQL quries?
 * Do you know what `GROUP BY` clause stands for? What does it do?
-* Can you install & run a simple RDBMS? For example - Postgre SQL
+* Can you install & run a RDBMS? For example - Postgre SQL
 * Do you know what a package manager is? Why is it important? Give example with the language you are coding in.
 * What is a unit test? What is a functional test? What is an integration test? Can you make simple examples for them.
 * Can you implement your own ORM framework? What are the ideas there? Can you use some kind of ORM framework?
