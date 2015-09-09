@@ -4,9 +4,9 @@ One of the main reasons people go to career events is to gather as many pens as 
 
 It's been a long day and you have managed to collect a lot of pens.
 
-But there is one questions that you need to answer - is there a company that you have missed to take a pen from? Some companies have many different types of pens.
+But there is one questions that you need to answer - have you managed to collect at least one pen from each type there is? There are many companies having different pen types. Some are the same and sone are different.
 
-You are interested in having at least one type of pen from each company at the event.
+**You are interested in collecting at least one pen from each type there is!**
 
 And since you are a programmer, you can use code to help yourself.
 
