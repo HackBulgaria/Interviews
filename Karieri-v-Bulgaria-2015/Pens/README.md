@@ -4,9 +4,9 @@ One of the main reasons people go to career events is to gather as many pens as 
 
 It's been a long day and you have managed to collect a lot of pens.
 
-But there is one questions that you need to answer - have you managed to collect at least one pen from each type there is? There are many companies having different pen types. Some are the same and sone are different.
+But there is one questions that you need to answer - have you managed to collect at least one type of pen from each company there is. If there is a company with a type of pen that you have, there's no need to collect any more.
 
-**You are interested in collecting at least one pen from each type there is!**
+**You are interested in collecting at least one type of pen from company at the event**
 
 And since you are a programmer, you can use code to help yourself.
 
@@ -55,4 +55,4 @@ enough_pens([ ['a'], ['b'], ['c'], ['d'], ['e', 'f', 'z', 'y'], ['a', 'b', 'c'] 
 True
 ```
 
-We have taken at least one type from each company.
+We have taken at least one type of pen from each company. As you can see, the company with `['e', 'f', 'z', 'y']` pens we only need the `'f'` and `'e'` type of pen.
